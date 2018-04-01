@@ -14,7 +14,6 @@ int main(){
 	char str1[] = "********************";
 	char str2[] = "Very Good!";
 	char str3[] = "********************";
-
 	printf("%s\n%s\n%s",str1,str2,str3);
 	return 0;
 }
